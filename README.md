@@ -1,4 +1,4 @@
-eroGenAI
+AeroGenAI
 
 Real-Time Generative Aerodynamic Design Assistant
 
